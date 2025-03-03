@@ -21,12 +21,18 @@ Implementing Logistic Regression with Scikit-learn
 📁 Repository Structure
 
 📂 Supervised-Learning-Course1
- ├── 📜 README.md  (This file)
+ ├── 📜 README.md  (This file)   
+ 
  ├── 📓 Logistic_Regression.ipynb  (Lab on Logistic Regression Model)
+ 
  ├── 📓 Decision_Boundary.ipynb  (Lab on Decision Boundaries in Classification)
+ 
  ├── 📓 Logistic_Loss.ipynb  (Lab on Cost Function for Logistic Regression)
+ 
  ├── 📓 Gradient_Descent_LogReg.ipynb  (Lab on Gradient Descent for Logistic Regression)
+ 
  ├── 📓 Overfitting_Regularization.ipynb  (Lab on Regularization Techniques)
+ 
  ├── 📓 Notes/  (My handwritten notes and explanations)
 
 📜 Week 3 Notebook Details
