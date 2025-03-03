@@ -21,6 +21,7 @@ Implementing Logistic Regression with Scikit-learn
 📁 Repository Structure
 
 📂 Supervised-Learning-Course1
+
  ├── 📜 README.md  (This file)   
  
  ├── 📓 Logistic_Regression.ipynb  (Lab on Logistic Regression Model)
