@@ -44,7 +44,7 @@ Implementing Logistic Regression with Scikit-learn
 
 Clone the repository:
 
-git clone https://github.com/your-username/Supervised-Learning-Course1.git
+git clone https://github.com/17mital/Supervised-machine-learning-week3.git
 
 Open the Jupyter Notebook:
 
